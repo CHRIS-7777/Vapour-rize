@@ -1,0 +1,19 @@
+{
+  "name": "Rail Pro",
+  "short_name": "Rail Pro",
+  "description": "Rail Pro UI demo",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#018aed",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
